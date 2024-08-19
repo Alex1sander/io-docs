@@ -15,7 +15,7 @@ icon: lock
 
 <figure><img src=".gitbook/assets/st2 (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
-3.  Ниже, на этой странице, будет отображаться таблица с подключенными воркерами. Нажмите **Stake**.
+3.  Ниже, на этой странице, будет отображаться таблица с подключенными воркерами. Рядом с нужным воркером Нажмите **Stake**.
 
     <figure><img src=".gitbook/assets/st3.png" alt="" width="375"><figcaption></figcaption></figure>
 
