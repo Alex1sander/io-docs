@@ -1,3 +1,4 @@
+---
 icon: lock
 description: Детальний гайд
 ---
