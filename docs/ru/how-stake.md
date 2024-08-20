@@ -1,6 +1,17 @@
 ---
 icon: lock
 description: Подробный гайд
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Как застейкать $IO
