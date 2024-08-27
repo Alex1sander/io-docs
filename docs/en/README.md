@@ -1,5 +1,5 @@
 ---
-description: All About $IO Staking
+description: Всё про стейкинг $IO
 cover: .gitbook/assets/pre.svg
 coverY: 0
 layout:
@@ -18,26 +18,29 @@ layout:
     visible: true
 ---
 
+# Про стейкинг для воркеров $IO
 
-# About Staking for $IO Workers
+### Зачем стейкать IO&#x20;
 
-### Why Stake IO&#x20;
 
-In the context of io.net, staking is a collateral requirement for receiving block rewards. Before staking was introduced, all supported devices received block rewards.&#x20;
 
-Now, to receive block rewards, you need to stake the required amount of IO, which depends on the multiplier and the number of GPUs in a single worker.&#x20;
+В контексте io.net стейкинг — это залог для получения блок ревардов. До введения стейкинга, блок реварды получали все поддерживаемые устройства.&#x20;
+
+Теперь для получения блок ревардов нужно застейкать необходимую сумму IO, которая зависит от мультипликатора и количества карт в одном воркере.&#x20;
+
+
 
 {% hint style="info" %}
-Currently, io.net is launching staking only for workers. Later, they promise to expand it to everyone.
+Сейчас io.net запускает стейкинг только для воркеров. Позже обещают сделать для всех.
 {% endhint %}
 
 {% hint style="warning" %}
-Block rewards will continue to accrue without staking until August 31.&#x20;
+Блок реварды будут капать без стейка до 31 августа.&#x20;
 {% endhint %}
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Select the section that interests you:&#x20;
+Выберите интересующий вас раздел:&#x20;
 
 {% content-ref url="how-stake.md" %}
 [how-stake.md](how-stake.md)
@@ -55,8 +58,8 @@ Select the section that interests you:&#x20;
 [faq.md](faq.md)
 {% endcontent-ref %}
 
-## Official Documentation
+## Официальная документация
 
-* [Block Rewards](https://docs.io.net/docs/block-rewards)
-* [Staking](https://docs.io.net/docs/io-staking)
-* [Table of Multipliers and Minimum Stake](https://docs.io.net/docs/proposed-device-block-reward-multiplier)
+* [Блок реварды](https://docs.io.net/docs/block-rewards)
+* [Стейкинг](https://docs.io.net/docs/io-staking)
+* [Таблица с мультипликаторами и минимальной ставкой](https://docs.io.net/docs/proposed-device-block-reward-multiplier)

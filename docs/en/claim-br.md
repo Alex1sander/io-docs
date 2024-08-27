@@ -12,10 +12,9 @@ layout:
     visible: true
 ---
 
-# How to Claim Block Rewards
+# Как забрать блок реварды
 
-You can claim the block rewards for July at [https://app.streamflow.finance/airdrop](https://app.streamflow.finance/airdrop).&#x20;
+Блок реварды за июль можно забрать на [https://app.streamflow.finance/airdrop](https://app.streamflow.finance/airdrop).&#x20;
 
-This time, it also includes compensation for Season 3.&#x20;
-
+Также в этот раз туда входит компенсация за 3 сезон.&#x20;
 
