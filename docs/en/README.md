@@ -1,5 +1,5 @@
 ---
-description: Всё про стейкинг $IO
+description: All About $IO Staking
 cover: .gitbook/assets/pre.svg
 coverY: 0
 layout:
@@ -18,27 +18,26 @@ layout:
     visible: true
 ---
 
-# Про стейкинг для воркеров $IO
 
-### Зачем стейкать IO&#x20;
+# About Staking for $IO Workers
 
-В контексте io.net стейкинг — это залог для получения блок ревардов. До введения стейкинга, блок реварды получали все поддерживаемые устройства.&#x20;
+### Why Stake IO&#x20;
 
-Теперь для получения блок ревардов нужно застейкать необходимую сумму IO, которая зависит от мультипликатора и количества карт в одном воркере.&#x20;
+In the context of io.net, staking is a collateral requirement for receiving block rewards. Before staking was introduced, all supported devices received block rewards.&#x20;
 
-
+Now, to receive block rewards, you need to stake the required amount of IO, which depends on the multiplier and the number of GPUs in a single worker.&#x20;
 
 {% hint style="info" %}
-Сейчас io.net запускает стейкинг только для воркеров. Позже обещают сделать для всех.
+Currently, io.net is launching staking only for workers. Later, they promise to expand it to everyone.
 {% endhint %}
 
 {% hint style="warning" %}
-Блок реварды будут капать без стейка до 31 августа.&#x20;
+Block rewards will continue to accrue without staking until August 31.&#x20;
 {% endhint %}
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Выберите интересующий вас раздел:&#x20;
+Select the section that interests you:&#x20;
 
 {% content-ref url="how-stake.md" %}
 [how-stake.md](how-stake.md)
@@ -56,8 +55,8 @@ layout:
 [faq.md](faq.md)
 {% endcontent-ref %}
 
-## Официальная документация
+## Official Documentation
 
-* [Блок реварды](https://docs.io.net/docs/block-rewards)
-* [Стейкинг](https://docs.io.net/docs/io-staking)
-* [Таблица с мультипликаторами и минимальной ставкой](https://docs.io.net/docs/proposed-device-block-reward-multiplier)
+* [Block Rewards](https://docs.io.net/docs/block-rewards)
+* [Staking](https://docs.io.net/docs/io-staking)
+* [Table of Multipliers and Minimum Stake](https://docs.io.net/docs/proposed-device-block-reward-multiplier)
