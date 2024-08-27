@@ -1,8 +1,9 @@
 # Table of contents
 
-* [Про стейкинг для воркеров $IO](README.md)
-* [Как застейкать $IO](how-stake.md)
-* [Как вывести $IO](unstake.md)
-* [Как рассчитывается ставка](calculation.md)
-* [Как забрать блок реварды](claim-br.md)
-* [Вопросы и ответы](faq.md)
+* [About Staking for $IO Workers](README.md)
+* [How to Stake $IO](how-stake.md)
+* [How to Unstake $IO](unstake.md)
+* [How the Stake is Calculated](calculation.md)
+* [How to Claim Block Rewards](claim-br.md)
+* [Questions and Answers](faq.md)
+
