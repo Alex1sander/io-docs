@@ -1,4 +1,5 @@
 ---
+icon: pickaxe
 layout:
   title:
     visible: true
@@ -14,8 +15,6 @@ layout:
 
 # How to Claim Block Rewards
 
-You can claim the block rewards for July at [https://app.streamflow.finance/airdrop](https://app.streamflow.finance/airdrop).&#x20;
+You can claim the block rewards for July at [https://app.streamflow.finance/airdrop](https://app.streamflow.finance/airdrop).
 
-This time, it also includes compensation for Season 3.&#x20;
-
-
+This time, it also includes compensation for Season 3.

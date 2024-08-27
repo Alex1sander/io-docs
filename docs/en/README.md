@@ -1,5 +1,6 @@
 ---
 description: All About $IO Staking
+icon: lightbulb-exclamation-on
 cover: .gitbook/assets/pre.svg
 coverY: 0
 layout:
@@ -18,26 +19,25 @@ layout:
     visible: true
 ---
 
-
 # About Staking for $IO Workers
 
-### Why Stake IO&#x20;
+### Why Stake IO
 
-In the context of io.net, staking is a collateral requirement for receiving block rewards. Before staking was introduced, all supported devices received block rewards.&#x20;
+In the context of io.net, staking is a collateral requirement for receiving block rewards. Before staking was introduced, all supported devices received block rewards.
 
-Now, to receive block rewards, you need to stake the required amount of IO, which depends on the multiplier and the number of GPUs in a single worker.&#x20;
+Now, to receive block rewards, you need to stake the required amount of IO, which depends on the multiplier and the number of GPUs in a single worker.
 
 {% hint style="info" %}
 Currently, io.net is launching staking only for workers. Later, they promise to expand it to everyone.
 {% endhint %}
 
 {% hint style="warning" %}
-Block rewards will continue to accrue without staking until August 31.&#x20;
+Block rewards will continue to accrue without staking until August 31.
 {% endhint %}
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Select the section that interests you:&#x20;
+Select the section that interests you:
 
 {% content-ref url="how-stake.md" %}
 [how-stake.md](how-stake.md)

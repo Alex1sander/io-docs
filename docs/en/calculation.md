@@ -1,5 +1,6 @@
 ---
 description: Откуда появилось 200 IO
+icon: calculator
 layout:
   title:
     visible: true

@@ -1,5 +1,6 @@
 ---
 description: Detailed Guide
+icon: lock
 layout:
   title:
     visible: true
@@ -13,11 +14,10 @@ layout:
     visible: true
 ---
 
-
 # How to Stake $IO
 
 {% hint style="warning" %}
-The amount of block rewards **does not depend** on the amount of tokens staked. The main thing is to stake the minimum required amount of tokens.&#x20;
+The amount of block rewards **does not depend** on the amount of tokens staked. The main thing is to stake the minimum required amount of tokens.
 
 [Learn more about the minimum stake calculation.](calculation.md)
 {% endhint %}
@@ -32,14 +32,14 @@ The amount of block rewards **does not depend** on the amount of tokens staked. 
 
 <figure><img src=".gitbook/assets/st2 (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
-3. Below, on this page, you'll see a table with connected workers. Next to the desired worker, click **Stake**.
+3.  Below, on this page, you'll see a table with connected workers. Next to the desired worker, click **Stake**.
 
     <figure><img src=".gitbook/assets/st3.png" alt="" width="375"><figcaption></figcaption></figure>
-4. Enter the required minimum stake and click **Stake** again.
+4.  Enter the required minimum stake and click **Stake** again.
 
     <figure><img src=".gitbook/assets/st4.png" alt="" width="375"><figcaption></figcaption></figure>
 5. Sign the transaction in your wallet. If an error occurs, try using the Phantom wallet.
 
-As a result, you will see that the tokens have been successfully staked.&#x20;
+As a result, you will see that the tokens have been successfully staked.
 
 <figure><img src=".gitbook/assets/unstake.png" alt=""><figcaption></figcaption></figure>

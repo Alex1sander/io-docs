@@ -1,10 +1,14 @@
+---
+icon: question
+---
+
 # Questions and Answers
 
 <details>
 
 <summary>Internal server error</summary>
 
-![](.gitbook/assets/telegram-cloud-photo-size-2-5339270053104837304-x.jpg)
+<img src=".gitbook/assets/telegram-cloud-photo-size-2-5339270053104837304-x.jpg" alt="" data-size="original">
 
 If you encounter this error while staking, try staking through the Phantom wallet. If that doesn't work, please reach out to us in our Discord chat.
 
@@ -18,13 +22,8 @@ The reward will not be proportional to the staking amount. Staking is a process 
 
 </details>
 
-
-
-## My question is not listed here&#x20;
+## My question is not listed here
 
 You can ask it in the form below, and I will try to answer in the chat:
 
-
-
 {% embed url="https://forms.gle/Hati8p4uWMtKfj8N6" %}
-
