@@ -1,19 +1,20 @@
-# Как вывести $IO
+# How to Unstake $IO
 
 {% hint style="danger" %}
-После того, как вы захотите вывести средства, у вас будет идти 14-дневный период, в течение которого вы не будете получать блок реварды и не сможете рестейкнуть.
+After you initiate an unstake, there will be a 14-day period during which you will not receive block rewards and will be unable to restake.
 {% endhint %}
 
-1. Откройте вкладку [**Staking**](https://worker.io.net/worker/integrated-staking) на сайте.
+1. Open the [**Staking**](https://worker.io.net/worker/integrated-staking) tab on the website.
 
 <figure><img src=".gitbook/assets/st1 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-2. Ниже, на этой странице, будет отображаться таблица с подключенными воркерами.&#x20;
+2. Below, on this page, you will see a table with connected workers.&#x20;
 
 <figure><img src=".gitbook/assets/unstake (1).png" alt=""><figcaption></figcaption></figure>
 
-3. Рядом с нужным нажмите **Три точки → Unstake.**
+3. Next to the desired worker, click **Three dots → Unstake.**
 
 <figure><img src=".gitbook/assets/unstake2.png" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Выводить нужно на тот же кошелек, с которого стейкали. После этого начнется 14-дневный период вывода средств. В течение этого времени вы не будете получать блок реварды и не смоежете рестейкнуть для этого воркера.
+4. You must withdraw to the same wallet from which you staked. After this, the 14-day withdrawal period will begin. During this time, you will not receive block rewards and will not be able to restake for this worker.
+
