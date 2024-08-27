@@ -1,30 +1,29 @@
-# Questions and Answers
+# Вопросы и ответы
 
 <details>
 
-<summary>Internal server error</summary>
+<summary>Ошибка Internal server error</summary>
 
 ![](.gitbook/assets/telegram-cloud-photo-size-2-5339270053104837304-x.jpg)
 
-If you encounter this error while staking, try staking through the Phantom wallet. If that doesn't work, please reach out to us in our Discord chat.
+Если у вас возникает такая ошибка при стейке, попробуйте сделать стейк через кошелек Phantom. Если не получилось - пишите в наш чат в Дискорде)
 
 </details>
 
 <details>
 
-<summary>What happens if you stake more than the required amount?</summary>
+<summary>Что будет если застейкать больше нужной суммы?</summary>
 
-The reward will not be proportional to the staking amount. Staking is a process of providing security. Therefore, you should stake only the minimum amount required for your worker.
+Вознаграждение не будет пропорционально сумме стейкинга. Стейкинг является процессом обеспечения. Поэтому нужно стейкать минимальную сумму, которая нужна для вашего воркера.
 
 </details>
 
 
 
-## My question is not listed here&#x20;
+## Моего вопроса нет в списке&#x20;
 
-You can ask it in the form below, and I will try to answer in the chat:
+Вы можете задать его в форме ниже, а я постараюсь ответить в чате:
 
 
 
 {% embed url="https://forms.gle/Hati8p4uWMtKfj8N6" %}
-

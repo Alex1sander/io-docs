@@ -13,23 +13,23 @@ layout:
     visible: true
 ---
 
-# How the Stake is Calculated
+# Как рассчитывается ставка
 
-To receive block rewards, you need to stake a certain amount of IO tokens. The required amount can be seen next to your worker on the [staking page](https://worker.io.net/worker/integrated-staking) or in the [documentation](https://docs.io.net/docs/proposed-device-block-reward-multiplier).
+Чтобы получать блок реварды, нужно застейкать определенную сумму токенов IO. Нужную сумму можно увидеть рядом с вашим воркером на [странице стейкинга](https://worker.io.net/worker/integrated-staking) или в [документации](https://docs.io.net/docs/proposed-device-block-reward-multiplier).
 
-Here’s how it’s calculated:
+Вот как это рассчитывается:
 
-1. The minimum stake amount is 200 IO per multiplier.
-2. Each device has a specific multiplier (M), ranging from 1 to 10.
-3. If the GPU multiplier is less than 1, it will be rounded up to 1.
-4. For devices with multiple GPUs (N), the total stake value is calculated as: M \* N \* 200 IO.
+1. Минимальная сумма ставки составляет 200 IO на множитель.
+2. Каждое устройство имеет определенный множитель (M), от 1 до 10.
+3. Если множитель GPU меньше 1, он будет округлен до 1.
+4. Для устройств с несколькими графическими процессорами (N) общее значение ставки рассчитывается как: M \* N \* 200 IO.
 
 <details>
 
-<summary>Examples</summary>
+<summary>Примеры</summary>
 
-* For a worker: 1 x H100 GPUs (multiplier 10), the minimum stake will be 1 \* 10 \* 200 = 2,000 IO
-* For a worker with multiple cards: 8 x H100 GPUs (multiplier 10), the minimum stake will be 8 \* 10 \* 200 = 16,000 IO
-* For a worker: 4 x 4070 GPU (multiplier 0.25, rounded up to 1), the minimum stake will be 4 \* 1 \* 200 = 800 IO
+* Для воркера: 1 x H100 GPUs (multiplier 10), минимальная ставка будет 1 \* 10 \* 200 = 2 000 IO
+* Для воркера с несколькими картами: 8 x H100 GPUs (multiplier 10), минимальная ставка будет 8 \* 10 \* 200 = 16 000 IO
+* Для воркера: 4 x 4070 GPU (множитель 0.25, округление до 1), минимальная ставка будет 4 \* 1 \* 200 = 800 IO
 
 </details>
