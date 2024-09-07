@@ -1,6 +1,6 @@
 ---
-description: All About $IO Staking
 icon: lightbulb-exclamation-on
+description: All About $IO Staking
 cover: .gitbook/assets/pre.svg
 coverY: 0
 layout:
@@ -30,12 +30,6 @@ Now, to receive block rewards, you need to stake the required amount of IO, whic
 {% hint style="info" %}
 Currently, io.net is launching staking only for workers. Later, they promise to expand it to everyone.
 {% endhint %}
-
-{% hint style="warning" %}
-Block rewards will continue to accrue without staking until August 31.
-{% endhint %}
-
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Select the section that interests you:
 
