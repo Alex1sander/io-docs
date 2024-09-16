@@ -25,6 +25,8 @@ icon: question
 </details>
 
 
+<iframe width="793" height="491" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxYpEN17-RWp5ZmeYl3DTkyShxczHltT5h-2SYzMyaI70t8rXVfNChX7Ato223gUa44vo3j-PhlMrQ/pubchart?oid=469542917&amp;format=interactive"></iframe>
+
 
 ## Моего вопроса нет в списке&#x20;
 
