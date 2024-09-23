@@ -2,6 +2,8 @@
 icon: chart-simple
 ---
 
-# Analytics
+# Аналитика
 
-{% embed url="https://app.plusdocs.com/sanek-387-xf0r/snapshot/cm167wqwh0083g3o7x9acp5dt" %}
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9WapPL_XhnDpOUln_pKSW_zaSVpM-kmbcvPPXahTDohMn7--ftzKez-4OyuVz2evJ51z9spC-chIy/pubhtml?gid=1360066708&single=true" fullWidth="true" %}
+
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9WapPL_XhnDpOUln_pKSW_zaSVpM-kmbcvPPXahTDohMn7--ftzKez-4OyuVz2evJ51z9spC-chIy/pubhtml?gid=1060453744&single=true" fullWidth="true" %}
