@@ -1,0 +1,3 @@
+<script type="module">
+  import gitbookPluginWidePage from 'https://cdn.skypack.dev/gitbook-plugin-wide-page';
+</script>
